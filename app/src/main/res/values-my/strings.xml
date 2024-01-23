@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationTest</string>
+    <string name="welcome">ဘာသာစကားပြောင်းလဲမှုမှ ကြိုဆိုပါတယ်</string>
+    <string name="name">တွေ့ရတာ ဝမ်းသာပါတယ်</string>
+    <string name="language">ဘာသာစကား ရွေးချယ်ပါ</string>
+</resources>

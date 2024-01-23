@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocalizationTest</string>
+    <string name="welcome">Welcome to LocalizationTest</string>
+    <string name="name">Nice to meet you,</string>
+    <string name="language">Selected Language :</string>
+
+    <string name="english" translatable="false">English</string>
+    <string name="japanese" translatable="false">Japanese</string>
+    <string name="myanmar" translatable="false">Myanmar</string>
+
+</resources>
